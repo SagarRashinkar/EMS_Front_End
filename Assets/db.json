@@ -1,0 +1,92 @@
+{
+  "EmployeeData": [
+    {
+      "firstName": "Sagar",
+      "lastName": "Rashinkar",
+      "address": "Belapur bk, Shrirampur, Ahmednagar",
+      "city": "Shri Rampur",
+      "state": "Maharashtra",
+      "zip": "413715",
+      "phone": "9595768860",
+      "email": "sagarrashinkar2@gmail.com",
+      "id": 1
+    },
+    {
+      "firstName": "Kiran",
+      "lastName": "Rashinkar",
+      "address": "Belapur",
+      "city": "Ahmednagar",
+      "state": "Maharashtra",
+      "zip": "413715",
+      "phone": "9595768860",
+      "email": "sagarrashinkar2@gmail.com",
+      "id": 2
+    },
+    {
+      "firstName": "Pratik",
+      "lastName": "Rashinkar",
+      "address": "Belapur",
+      "city": "Shrirampur",
+      "state": "Ahmednagar",
+      "zip": "414141",
+      "phone": "9898989898",
+      "email": "pratik2@gmail.com",
+      "id": 4
+    },
+    {
+      "firstName": "Vivek",
+      "lastName": "Dhande",
+      "address": "Jalgaon",
+      "city": "Jalgaon",
+      "state": "Maharashtra",
+      "zip": "417465",
+      "phone": "9874563210",
+      "email": "vackydhande@gmail.com",
+      "id": 5
+    },
+    {
+      "firstName": "Ravi",
+      "lastName": "Jadhav",
+      "address": "Karmala",
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "zip": "414141",
+      "phone": "7020789654",
+      "email": "ravij@gmail.com",
+      "id": 6
+    },
+    {
+      "firstName": "Nikhil",
+      "lastName": "Bhot",
+      "address": "Sangamner",
+      "city": "Akole",
+      "state": "Maharashtra",
+      "zip": "413716",
+      "phone": "8698462446",
+      "email": "nikhil@gmail.com",
+      "id": 7
+    },
+    {
+      "firstName": "Sagar",
+      "lastName": "Rashinkar",
+      "address": "Belapur bk, Shrirampur, Ahmednagar",
+      "city": "Shri Rampur",
+      "state": "Maharashtra",
+      "zip": "413715",
+      "phone": "9595768860",
+      "email": "sagarrashinkar2@gmail.com",
+      "id": 8
+    },
+    {
+      "firstName": "Nikhil",
+      "lastName": "Bhot",
+      "address": "Sangamner",
+      "city": "Akole",
+      "state": "Maharashtra",
+      "zip": "413716",
+      "phone": "8698462446",
+      "email": "nikhil@gmail.com",
+      "id": 9
+    }
+  ]
+}

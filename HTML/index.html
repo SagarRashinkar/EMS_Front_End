@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Registration Form</title>
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <link rel="stylesheet" href="../CSS/index.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="../JS/validation.js"></script>
+</head>
+
+<body>
+    <center>
+        <form class="form" id="form" method="POST">
+            <h3>Employee Registration From</h3>
+            <input class="ipField" type="text" id="fname" name="firstname" placeholder="Enter your first name.."
+                onchange="validateFirstName()">
+            <span id="fNameError"></span>
+            <input class="ipField" type="text" id="lname" name="lastname" placeholder="Enter your last name.."
+                onchange="validateLastName()">
+            <span id="lNameError"></span>
+            <input class="ipField" type="text" id="address" name="address" placeholder="Enter your address.."
+                onchange="validateAddress()">
+            <span id="addressError"></span>
+            <input class="ipField" type="text" id="city" name="city" placeholder="Enter your city.."
+                onchange="validateCity()">
+            <span id="cityError"></span>
+            <input class="ipField" type="text" id="state" name="state" placeholder="Enter your state.."
+                onchange="validateState()">
+            <span id="stateError"></span>
+            <input class="ipField" type="number" id="zip" name="zip" placeholder="Enter your zip code.."
+                onchange="validateZip()">
+            <span id="zipError"></span>
+            <input class="ipField" type="number" id="phone" name="phone" placeholder="Enter your phone number.."
+                onchange="validatePhone()">
+            <span id="phoneError"></span>
+            <input class="ipField" type="text" id="email" name="email" placeholder="Enter your email.."
+                onchange="validateEmail()">
+            <span id="emailError"></span>
+            <div class="buttons">
+                <button class="btn1" type="button" onclick="checkData()">Add Employee</button>
+                <a href="./homePage.html"><button class="btn2" type="button">Home
+                        Page</button></a>
+            </div>
+        </form>
+    </center>
+</body>
+
+</html>
